@@ -1,4 +1,5 @@
 # odin-recipes
+[View the Project here] (https://darz007.github.io/odin-recipes/)
 
 What I learned from this Project: 
 - I have become quite profficient at Linux command line basics. e.g. creating, delating, modifying and moving directories and files.
